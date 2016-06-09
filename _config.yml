@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sonnyit's Blog"
+title                    : "<sonny>"
 title_separator          : "-"
-name                     : "Sonnyit"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "<sonny>"
+description              : "Where I note some things I have read"
+url                      : "https://sonnyit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "sonnyitblog.disqus.com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "<sonny>"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "castle in the sky."
+  location         : "somewhere"
   email            :
   uri              :
   bitbucket        :
