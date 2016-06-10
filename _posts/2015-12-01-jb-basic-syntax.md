@@ -1,6 +1,8 @@
 ---
 title: Java Basic - Basic Syntax
 updated: 2015-12-01
+categories:
+  - java
 ---
 
 
