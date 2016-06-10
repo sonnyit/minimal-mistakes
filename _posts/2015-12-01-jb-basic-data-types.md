@@ -1,6 +1,9 @@
 ---
 title: Java Basic - Basic DataTypes
 updated: 2015-12-01
+layout: single
+categories:
+  - java
 ---
 
 There are two data types available in Java:
