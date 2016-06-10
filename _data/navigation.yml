@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: https://sonnyit.github.io/
 
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
+  - title: "Category"
+    url: https://sonnyit.github.io/category-archive/
 
   - title: "Sample Posts"
     url: https://mmistakes.github.io/minimal-mistakes/year-archive/
