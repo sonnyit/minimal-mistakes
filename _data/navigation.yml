@@ -17,3 +17,10 @@ main:
 
   - title: "Sample Collections"
     url: https://sonnyit.github.io/collection-archive/
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Basic Data"
+        url: /2015-12-01-jb-basic-data-types/
