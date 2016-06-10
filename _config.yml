@@ -230,7 +230,3 @@ defaults:
       share: true
       related: true
 
-collections:
-  java:
-    output: true
-    permalink: /:collection/:path/
