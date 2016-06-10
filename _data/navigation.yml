@@ -6,6 +6,9 @@ main:
   - title: "Category"
     url: https://sonnyit.github.io/category-archive/
 
+  - title: "Sitemap"
+    url: https://sonnyit.github.io/sitemap/
+
   - title: "Sample Posts"
     url: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
