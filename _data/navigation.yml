@@ -22,5 +22,7 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Basic Data"
-        url: /2015-12-01-jb-basic-data-types/
+      - title: "Basic Data Types"
+        url: /java/jb-basic-data-types/
+      - title: "Basic Operators"
+        url: /java/jb-basic-operators/
